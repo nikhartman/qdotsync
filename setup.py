@@ -9,5 +9,9 @@ setup(name = 'qdotsync',
       author_email = 'nik.hartman@gmail.com',
       url = 'https://github.com/nikhartman/qdotsync',
       py_modules = ['qdotsync'],
+<<<<<<< HEAD
       install_requires = ['paramiko']
+=======
+      install_requires = ['']
+>>>>>>> 004511fa05f36109daec864f0f402fd4bf26e155
       )

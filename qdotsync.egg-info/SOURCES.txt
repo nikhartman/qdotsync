@@ -1,0 +1,6 @@
+qdotsync.py
+setup.py
+qdotsync.egg-info/PKG-INFO
+qdotsync.egg-info/SOURCES.txt
+qdotsync.egg-info/dependency_links.txt
+qdotsync.egg-info/top_level.txt

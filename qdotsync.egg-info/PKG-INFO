@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: qdotsync
+Version: 1.0
+Summary: download data from qdot-server using rsync
+Home-page: https://github.com/nikhartman/qdotsync
+Author: Nik Hartman
+Author-email: nik.hartman@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
